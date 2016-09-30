@@ -26,7 +26,6 @@ boolean KeyRight = false;
 boolean KeySpace = false;
 
 int cnt;
-
 int e_w, e_h; 
 int m_w, m_h; //미사일 이미지의 크기값을 받을 변수
 
